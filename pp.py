@@ -12,5 +12,6 @@ class point:
             return "this is 3rd"
         else:
             return"this is 4rd"
+            print("its in else loop")
 p=point(-1,-2)
 print(p.make())
