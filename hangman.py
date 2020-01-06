@@ -1,4 +1,4 @@
-0import random
+import random
  
 def get_secret_word(word_file="/usr/share/dict/words"):
     good_words = []
